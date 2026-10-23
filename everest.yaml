@@ -1,0 +1,113 @@
+- Name: StrawberryJam2021
+  Version: 1.0.13
+  DLL: Celeste.Mods.StrawberryJam.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.3847.0
+    - Name: StrawberryJam2021Assets
+      Version: 1.0.1
+    - Name: StrawberryJam2021AudioA
+      Version: 1.0.4
+    - Name: StrawberryJam2021AudioB
+      Version: 1.0.0
+    - Name: StrawberryJam2021AudioC
+      Version: 1.0.1
+    - Name: AdventureHelper
+      Version: 1.5.8
+    - Name: Anonhelper
+      Version: 1.0.9
+    - Name: Batteries
+      Version: 1.1.3
+    - Name: BGswitch
+      Version: 1.2.2
+    - Name: BounceHelper
+      Version: 1.6.2
+    - Name: BrokemiaHelper
+      Version: 1.7.2
+    - Name: CanyonHelper
+      Version: 1.1.4
+    - Name: CavernHelper
+      Version: 1.3.6
+    - Name: CherryHelper
+      Version: 1.7.1
+    - Name: CollabUtils2
+      Version: 1.10.11
+    - Name: ColoredLights
+      Version: 1.1.2
+    - Name: CommunalHelper
+      Version: 1.14.5
+    - Name: ContortHelper
+      Version: 1.5.5
+    - Name: CrystallineHelper
+      Version: 1.14.0
+    - Name: DisposableTheo
+      Version: 1.0.6
+    - Name: DJMapHelper
+      Version: 1.13.2
+    - Name: EeveeHelper
+      Version: 1.5.3
+    - Name: EmHelper
+      Version: 1.2.1
+    - Name: ExtendedVariantMode
+      Version: 0.26.9
+    - Name: FactoryHelper
+      Version: 1.3.6
+    - Name: FancyTileEntities
+      Version: 1.6.2
+    - Name: FemtoHelper
+      Version: 1.9.4
+    - Name: FlaglinesAndSuch
+      Version: 1.6.2
+    - Name: FrostHelper
+      Version: 1.40.3
+    - Name: FurryHelper
+      Version: 1.0.6
+    - Name: GravityHelper
+      Version: 1.1.36
+    - Name: HonlyHelper
+      Version: 1.7.4
+    - Name: IsaGrabBag
+      Version: 1.6.12
+    - Name: JackalHelper
+      Version: 1.6.8
+    - Name: JungleHelper
+      Version: 1.1.4
+    - Name: LuaCutscenes
+      Version: 0.2.7
+    - Name: LunaticHelper
+      Version: 1.1.1
+    - Name: MaxHelpingHand
+      Version: 1.24.10
+    - Name: memorialHelper
+      Version: 1.0.4
+    - Name: MoreDasheline
+      Version: 1.7.0
+    - Name: OutbackHelper
+      Version: 1.7.2
+    - Name: PandorasBox
+      Version: 1.0.46
+    - Name: SafeRespawnCrumble
+      Version: 1.2.0
+    - Name: Sardine7
+      Version: 1.1.4
+    - Name: ShroomHelper
+      Version: 1.2.4
+    - Name: SorbetHelper
+      Version: 1.1.1
+    - Name: SpirialisHelper
+      Version: 1.0.8
+    - Name: TwigHelper
+      Version: 1.5.2
+    - Name: VivHelper
+      Version: 1.11.1
+    - Name: VortexHelper
+      Version: 1.2.11
+    - Name: XaphanHelper
+      Version: 1.0.54
+    - Name: YetAnotherHelper
+      Version: 1.2.4
+  OptionalDependencies:
+    - Name: CelesteTAS
+      Version: 3.47.1
+    - Name: SpeedrunTool
+      Version: 3.20.4
